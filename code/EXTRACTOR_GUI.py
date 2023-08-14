@@ -53,8 +53,8 @@ def clear_image():
 root = tk.Tk()
 root.title("Data Extractor System - DES")
 
-# 8-Nombre del diseñador o desarrollador
-designer_name = "Wagner Fernandez V. - (c) 2023 v0.1"  # Reemplazar con el nombre real
+# 7.1 - Nombre del diseñador o desarrollador
+designer_name = "Wagner Fernandez V. - (c) 2023 v0.1"  
 
 designer_label = tk.Label(root, text=f"Designed by {designer_name}")
 designer_label.pack(pady=5)
