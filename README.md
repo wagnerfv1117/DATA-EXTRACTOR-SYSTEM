@@ -19,6 +19,10 @@ Data Extractor with Pytesseract library from images files
 - Windows 11
 - Git
 
+### **Aditional software** 
+
+-Tesseract
+
 ### **Project schema**
 
 ```
