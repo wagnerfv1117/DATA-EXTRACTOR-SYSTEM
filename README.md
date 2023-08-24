@@ -21,7 +21,7 @@ Data Extractor with Pytesseract library from images files
 
 ### **Aditional software** 
 
--Tesseract
+- Tesseract
 
 ### **Project schema**
 
